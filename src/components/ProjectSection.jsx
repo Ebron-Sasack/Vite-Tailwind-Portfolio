@@ -90,7 +90,7 @@ export const ProjectSection = ()=>{
 
                     <div className="text-center mt-12">
                         <a 
-                            href="#" 
+                            href="https://github.com/Ebron-Sasack" 
                             target="_blank"
                             className="cosmic-button w-fit flex items-center mx-auto gap-2">
                             Check My GitHub <ArrowRight size={20} />
