@@ -11,7 +11,7 @@ const skills =[
     },
     {
         name: "JavaScript",
-        level: 90,
+        level: 85,
         category: "Frontend"
     },
     {
@@ -25,19 +25,9 @@ const skills =[
         category: "Frontend"
     },
     {
-        name: "Node.js",
-        level: 50,
-        category: "Backend"
-    },
-    {
-        name: "Express.js",
-        level: 50,
-        category: "Backend"
-    },
-    {
-        name: "MongoDB",
-        level: 50,
-        category: "Database"
+        name: "Tailwind CSS",
+        level: 90,
+        category: "Frontend"
     },
     {
         name: "GIt/GitHub",
@@ -47,6 +37,11 @@ const skills =[
     {
         name: "VS Code",
         level: 95,
+        category: "Tools"
+    },
+    {
+        name: "Figma",
+        level: 50,
         category: "Tools"
     },
 ]

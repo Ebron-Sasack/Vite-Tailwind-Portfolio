@@ -4,29 +4,29 @@ const projects =[
     {
         id:1,
         title: "E-commerce Page",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, ipsa.",
-        image: "/projects/project1.jpg",
-        tags:["React","Tailwind"],
-        demoUrl: "%",
-        githubUrl: "%"
+        description: "Fresh, Organic, and Handpicked Fruits and Vegetables directly from local farms to your kitchen",
+        image: "/projects/project1.png",
+        tags:["React","Tailwind","JavaScript"],
+        demoUrl: "https://responsive-website-vegies.vercel.app/",
+        githubUrl: "https://github.com/Ebron-Sasack/Responsive-Website-Vegies"
     },
     {
         id:2,
-        title: "Sasa LandingPage",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, ipsa.",
-        image: "/projects/project2.jpg",
-        tags:["React","Tailwind","JavaScript"],
+        title: "LandingPage",
+        description: "Deploy your websites, application and projects globally in seconds",
+        image: "/projects/project2.png",
+        tags:["React","Tailwind"],
         demoUrl: "%",
-        githubUrl: "%"
+        githubUrl: "https://github.com/Ebron-Sasack/Vite-Tailwind-Landing-Page"
     },
     {
         id:3,
-        title: "Tools Shop Page",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, ipsa.",
-        image: "/projects/project3.jpg",
-        tags:["React","Tailwind","Bootstarp"],
-        demoUrl: "%",
-        githubUrl: "%"
+        title: "Shades of brown",
+        description: "Where every Outfit tells an earthy story",
+        image: "/projects/project3.png",
+        tags:["React","Tailwind","JavaScript"],
+        demoUrl: "https://webpage-shades-of-brown.vercel.app/",
+        githubUrl: "https://github.com/Ebron-Sasack/Webpage-Shades-of-Brown"
     }
 ]
 
@@ -40,8 +40,7 @@ export const ProjectSection = ()=>{
                         Featured <span className="text-primary">Projects</span>
                     </h2>
                     <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos cumque 
-                        eius autem? Vitae, neque ratione. Illo ipsa architecto animi?
+                        Each project below reflects my commitment to clean design, responsive performance, and creating smooth, user-friendly digital experiences. 
                     </p>
 
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

@@ -39,8 +39,7 @@ export const ContactSection = ()=>{
                         <span className="text-primary">Touch</span>
                     </h2>
                     <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta 
-                        consequuntur molestiae, quibusdam illo sapiente impedit.
+                        Got an idea or looking to team up? I’m always open to fresh projects and meaningful collaborations. Let’s connect!
                     </p>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
                         <div className="space-y-8">
@@ -89,10 +88,10 @@ export const ContactSection = ()=>{
                                     <a href="#" target="_blank">
                                         <Twitter />
                                     </a>
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.instagram.com/_.im._.sasack._/?utm_source=ig_web_button_share_sheet" target="_blank">
                                         <Instagram />
                                     </a>
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.facebook.com/share/1GpmXrTmq7/" target="_blank">
                                         <Facebook />
                                     </a>
                                 </div>
