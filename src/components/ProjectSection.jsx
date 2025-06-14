@@ -16,7 +16,7 @@ const projects =[
         description: "Deploy your websites, application and projects globally in seconds",
         image: "/projects/project2.png",
         tags:["React","Tailwind"],
-        demoUrl: "%",
+        demoUrl: "https://vite-tailwind-landing-page-eight.vercel.app/",
         githubUrl: "https://github.com/Ebron-Sasack/Vite-Tailwind-Landing-Page"
     },
     {
